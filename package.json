@@ -1,0 +1,8 @@
+{
+  "name": "wasm-game-of-life",
+  "version": "1.0.0",
+  "scripts": {
+    "wasm-pack": "wasm-pack build"
+  },
+  "dependencies": {  }
+}
